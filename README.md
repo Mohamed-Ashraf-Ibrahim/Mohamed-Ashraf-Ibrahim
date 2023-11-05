@@ -5,7 +5,7 @@
 ![GIF](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ashraf-ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ashraf-ibrahim" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ashraf-ibrahim" alt="mohamed-ashraf-ibrahim" /></a> </p>
 
