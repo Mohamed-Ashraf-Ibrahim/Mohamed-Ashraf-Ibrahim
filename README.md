@@ -33,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-ashraf-ibrahim&show_icons=true&locale=en" alt="mohamed-ashraf-ibrahim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ashraf-ibrahim&" alt="mohamed-ashraf-ibrahim" /></p>
