@@ -24,7 +24,7 @@
 
 ### Languages and Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,babel,npm,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,babel,npm,figma,xd)](https://skillicons.dev)
 
 
 
