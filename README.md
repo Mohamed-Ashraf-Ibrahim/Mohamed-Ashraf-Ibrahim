@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/iplayashe" target="blank"><img src="https://img.shields.io/twitter/follow/iplayashe?logo=twitter&style=for-the-badge" alt="iplayashe" /></a> </p>
 
-- 🌱 I’m currently learning **The Complete JavaScript Course 2023: From Zero to Expert!**
+- 🌱 I’m currently learning React, Redux & More
 
 - 💬 Ask me about **HTML5,CSS3**
 
