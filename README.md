@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning React, Redux & More
 
-- 💬 Ask me about **HTML5,CSS3**
+- 💬 Ask me about **HTML5,CSS3,JAVASCRIPT**
 
 - 📫 How to reach me **mohamed.ash.1523@gmail.com**
 
