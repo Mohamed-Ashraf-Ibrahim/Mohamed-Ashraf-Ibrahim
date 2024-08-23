@@ -20,7 +20,7 @@
 
 ### Languages and Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,react,babel,vite,npm,figma,xd,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,tailwind,react,router,babel,vite,npm,figma,xd,git)](https://skillicons.dev)
 
 
 
